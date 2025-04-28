@@ -1,4 +1,4 @@
-# Hi my name is david and im bytecode i
+# Hi my name is david and im byte
 i program stuff
 
 
